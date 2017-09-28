@@ -1,0 +1,25 @@
+.text
+	background: #f1f5f7 url('../img/background/bg-puzzle.png') round
+	&__title
+		font: 35px/41px "Cuprum Bold", "Arial", sans-serif
+		color: #293449
+		padding: 10px
+		padding-top: 20px
+	&__description
+		font: 14px/18px "Cuprum Regular", "Arial", sans-serif
+		text-indent: 20px
+		padding: 10px
+	&__item
+		position: relative
+		padding-left: 20px
+		font: 14px/18px "Cuprum Italic", "Arial", sans-serif
+		color: #32425c
+		&:before
+			position: absolute
+			content: ''
+			width: 10px
+			height: 10px
+			background: #30385a
+			bottom: 8px
+			left: 0
+			transform: rotate(45deg)

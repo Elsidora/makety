@@ -1,0 +1,111 @@
+@import "sprite/sprite"
+.main-footer
+	padding: 25px
+	background: #293449
+	&--catalog
+		margin-top: 35px
+	&__container
+		display: flex
+		flex-wrap: wrap
+		justify-content: space-between
+	&__menu
+		display: flex 
+	&__copyright
+		position: relative
+	&__left
+		padding-left: 6px
+	&__middle
+		padding-left: 31px
+	&__right
+		padding-left: 31px
+	&__item
+		font: 13px/18px "Cuprum Regular", "Arial", sans-serif
+		margin-bottom: 4px
+		
+	&__link
+		color: #f7f8f8
+		text-decoration: underline solid rgba(255, 255, 255, .8)
+		&:hover
+			color: rgba(50, 175, 222, 1)
+			text-decoration: underline solid rgba(50, 175, 222, .5)
+		&:active
+			color: rgba(50, 188, 158, 1)
+			text-decoration: underline solid rgba(50, 188, 158, .5)
+		&--active
+			color: rgba(50, 175, 222, .5)
+			text-decoration: none
+	&__made
+		font: 12px/18px "Cuprum Regular", "Arial", sans-serif
+		color: #f7f8f8
+		&::before,
+		&::after
+			position: absolute
+			content: ""
+			width: 10px
+			height: 15px
+			background: red
+			top: 15px
+			left: 53px
+			border-top-left-radius: 50%
+			border-top-right-radius: 50%
+			transform: rotate(-45deg)
+				
+		&::after
+			left: 58px
+			transform: rotate(45deg)
+	&__love
+		display: inline-block
+		width: 21px
+		visibility: hidden
+.social
+	display: flex
+	flex-wrap: wrap
+	justify-content: space-between
+	width: 188px
+	&__btn
+		position: relative
+		display: inline-block
+		vertical-align: top
+		font-size: 0
+		width: 32px
+		height: 32px
+		background: #293449
+		border: 4px solid #9bafa4
+		border-radius: 50%
+		&:hover
+			background: #172236
+			border: 4px solid #7a8b82
+		&:active
+			background: #e9e9e9
+			box-shadow: 0 -3px 0 0 rgba(0, 0, 0, .4)
+		&--tw,
+		&--fb,
+		&--vk
+			&::before
+				position: absolute
+				content: ''
+				top: 0
+				left: 0
+		&--tw
+			&::before
+				@include sprite($icon-tw)
+			&:hover::before
+				@include sprite($icon-tw)
+		&--fb
+			&::before
+				@include sprite($icon-fb)
+			&:hover::before
+				@include sprite($icon-fb)
+
+		&--vk
+			&::before
+				@include sprite($icon-vk)
+			&:hover::before
+				@include sprite($icon-vk)
+		
+	/*&__logo
+		position: absolute
+		left: 3px
+		top: -15px
+	
+		

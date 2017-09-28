@@ -1,0 +1,72 @@
+.works
+	padding-bottom: 50px
+	&__title
+		width: 50%
+		font: 30px/36px 'Cuprum Bold', 'Arial', sans-serif
+		color: #30385a
+		text-transform: uppercase
+		text-align: center
+		padding: 20px
+		margin: 0 auto
+		margin-bottom: 20px
+	&__link
+		color: inherit
+		text-decoration: underline
+	&__blocks
+		display: flex
+		flex-wrap: wrap
+		justify-content: space-between
+	&__wrapper
+		position: relative
+		margin-bottom: 30px
+		&:hover .work-block
+			display: block
+.work
+	width: 350px
+	padding-bottom: 5px
+	&__show
+		position: relative
+		
+.work-block
+	display: none
+	position: absolute
+	width: 350px
+	padding: 10px
+	padding-top: 274px
+	top: -10px
+	left: -10px
+	background: rgba(255, 255, 255, .3)
+	text-align: center
+	z-index: 100
+	&__span
+		width: 200px
+		display: inline-block
+		padding: 10px 15px
+		background: #30385a
+		border-radius: 10px
+		border: none
+		text-align: center
+		font: 18px/24px "Cuprum Bold", "Arial", sans-serif
+		color: #fff
+		&:hover
+			color: #30385a
+			background: rgba(50, 175, 222, .5)
+		&:active
+			background: rgba(50, 175, 222, .3)
+.work-description
+	font: 16px/24px "Cuprum Regular", "Arial", sans-serif
+	color: #32425c
+	padding: 10px
+	text-align: center
+	text-decoration: underline solid rgba(50, 66, 92, .4)
+	cursor: pointer
+	&:hover
+		color: rgba(50, 175, 222, 1)
+		text-decoration: underline solid rgba(50, 175, 222, .5)
+	&:active
+		color: rgba(50, 175, 222, 1)
+		text-decoration: underline solid rgba(50, 175, 222, .5)
+
+.puzzle
+	background: #f1f5f7 url('../img/background/bg-puzzle.png') round
+	

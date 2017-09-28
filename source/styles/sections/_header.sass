@@ -1,0 +1,104 @@
+@import "sprite/sprite"
+.main-header
+	width: 100%
+	background: #f1f5f7
+	background-size: cover
+	/*min-height: 320px
+	&--index
+		width: 100%
+		height: 100vh
+		background: #f1f5f7 url('../img/churches/maket-kremlya.png')
+		background-size: cover
+	&__top
+		width: 100%
+		background: #293449
+		text-align: center
+	&__text
+		font: 18px/24px 'Cuprum Italic', 'Arial', sans-serif
+		color: #fff
+	&__middle
+		display: flex
+		flex-wrap: wrap
+		justify-content: space-around
+		
+		padding: 20px
+		z-index: 10
+	&__logo
+		background: #f1f5f7
+		border-radius: 20px
+		padding: 10px
+		width: 200px
+		height: 167px
+		z-index: 11
+	&__phone,
+	&__email
+		display: flex
+		flex-direction: column
+		justify-content: center
+		flex-basis: 420px
+		/*width: 250px
+		font: 30px/36px 'Cuprum Bold', 'Arial', sans-serif
+		/*text-align: center
+		background: transparent
+	&__link
+		position: relative
+		color: #fff
+		text-align: center
+		padding: 15px
+		background: #30385a
+		border-radius: 15px
+		&--phone,
+		&--mail
+			&::before
+				position: absolute
+				content: ''
+				z-index: 20
+		&--phone
+			&::before
+				top: 15px
+				left: 60px
+				@include sprite($icon-phone)
+		&--mail
+			&::before
+				top: 22px
+				left: 15px
+				@include sprite($icon-mail)
+	&--auto
+		padding: 15px 5px
+	&__description
+		width: auto
+		font: 42px/48px 'Cuprum BoldItalic', 'Arial', sans-serif
+		text-shadow: 2px 2px  #30385a, 4px 4px #fff
+		padding: 15px 5px
+		text-align: center
+		text-transform: uppercase
+		color: #fff
+		&--index
+			/*background: #fff
+			border-radius: 15px
+.navigation
+	background: #32425c
+	min-height: 64px
+	border-radius: 15px
+	margin-bottom: 25px
+	&__list
+		display: flex
+		flex-wrap: wrap
+		justify-content: space-around
+		padding: 0 10px
+	&__item
+		text-align: center
+		
+	&__link
+		display: inline-block
+		vertical-align: top
+		width: auto
+		padding: 20px 15px
+		font: 18px/24px 'Cuprum Bold', 'Arial', sans-serif
+		color: #fff
+		cursor: pointer
+		&:hover
+			background: #f1f5f7
+			color: #32425c
+		&--active
+			background: rgba(50, 175, 222, .5)

@@ -1,0 +1,39 @@
+.breadcrumbs-title
+	position: relative
+	margin-bottom: 10px
+	&__title
+		font: 35px/41px "Cuprum Bold", "Arial", sans-serif
+		color: #293449
+		padding: 2px 0
+	&__text
+		font: 14px/18px "Cuprum Regular", "Arial", sans-serif
+		text-indent: 20px
+		padding: 10px
+.breadcrumbs
+	display: flex
+	flex-wrap: wrap
+	justify-content: space-between
+	width: auto
+	position: absolute
+	top: -18px
+	&__item
+		position: relative
+		font: 14px/18px "Cuprum Regular", "Arial", sans-serif
+		margin-right: 45px
+		&:not(:first-child):before
+			position: absolute
+			content: ''
+			width: 10px
+			height: 10px
+			background: #30385a
+			left: -27px
+			bottom: 2px
+			transform: rotate(45deg)
+	&__link
+		color: #32425c
+		border-bottom: 1px solid rgba(50, 175, 222, .5)
+		&--active
+			border-bottom: none
+	&__text
+		font: 16px/22px "PT Sans Regular", "Arial", sans-serif
+		color: #32425c

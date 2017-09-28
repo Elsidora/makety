@@ -1,0 +1,58 @@
+.item
+	&__container
+		display: flex
+		flex-wrap: wrap
+	&__gallery
+		flex-basis: 900px
+		flex-grow: 3
+	&__description
+		flex-basis: 290px
+		flex-grow: 1
+		padding-left: 10px
+	&__parameter
+		margin-bottom: 30px
+	&__title
+		text-align: center
+		text-transform: uppercase
+		font: 30px/36px 'Cuprum Bold', 'Arial', sans-serif
+		color: #30385a
+		padding-bottom: 35px
+		margin-bottom: 20px
+		border-bottom: 2px dotted #30385a
+	&__paragraph
+		position: relative
+		padding-left: 15px
+		color: #32425c
+		font: 16px/24px 'Cuprum Regular', 'Arial', sans-serif
+		&:before
+			position: absolute
+			content: ''
+			width: 10px
+			height: 10px
+			background: #30385a
+			bottom: 8px
+			left: 0
+			transform: rotate(45deg)
+		&--mod
+			margin-bottom: 30px
+			&:before
+				display: none
+		&--rhombus
+			&:before
+				bottom: 32px
+	&__image
+		position: relative
+		margin-bottom: 20px
+
+		padding-bottom: 35px
+		&:not(:last-child):before
+			position: absolute
+			content: ''
+			width: 26px
+			height: 26px
+			background: #30385a
+			bottom: 0
+			left: 50%
+			margin-left: -13px
+			transform: rotate(45deg)
+			box-shadow: 35px -35px 0 0 #30385a, -35px 35px 0 0 #30385a

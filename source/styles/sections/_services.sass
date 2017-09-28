@@ -1,0 +1,85 @@
+.services
+	/*width: 100%
+	background: #f1f5f7 url('../img/background/bg-puzzle.png') round
+	&__service
+		display: flex
+		flex-wrap: wrap
+		justify-content: space-between
+		flex-basis: 1200px
+		flex-grow: 1
+		border-bottom: 2px solid #32425c
+		border-radius: 15px
+		background: #fff
+		&:nth-child(2n)
+			flex-direction: row-reverse
+		&:nth-child(2n) .services__block
+			border-left: none
+			border-right: 2px solid #32425c
+			border-radius: 15px
+	&__block
+		flex-basis: 558px
+		flex-grow: 1
+		border-left: 2px solid #32425c
+		border-radius: 15px
+		text-align: center
+		padding: 20px
+	&__title
+		font: 36px/42px 'Cuprum BoldItalic', 'Arial', sans-serif
+		color: #30385a
+		text-transform: uppercase
+		padding: 25px
+		text-align: center
+	&__sub-title
+		position: relative
+		font: 30px/36px 'Cuprum Bold', 'Arial', sans-serif
+		color: #30385a
+		text-transform: uppercase
+		margin-bottom: 40px
+		padding-bottom: 45px
+		&:before
+			position: absolute
+			content: ''
+			width: 26px
+
+			height: 26px
+			background: #30385a
+			bottom: 0
+			left: 50%
+			margin-left: -13px
+			transform: rotate(45deg)
+	&__description
+		color: #32425c
+		font: 16px/24px 'Cuprum Regular', 'Arial', sans-serif
+		margin-bottom: 30px
+	&__link
+		display: block
+		width: 200px
+		background: #30385a
+		padding: 10px 15px
+		font: 16px/24px 'Cuprum Bold', 'Arial', sans-serif
+		color: #fff
+		border-radius: 10px
+		margin-left: auto
+		&:hover
+			color: #30385a
+			background: rgba(50, 175, 222, .5)
+		&:active
+			background: rgba(50, 175, 222, .3)
+	&__image
+		display: flex
+		flex-direction: column
+		justify-content: center
+		flex-basis: 600px
+		flex-grow: 1
+		min-height: 338px
+		&:hover
+			animation: picture 3s ease-in-out
+img
+	margin: auto
+@keyframes picture
+	10%
+		transform: rotate(3deg)
+	50%
+		transform: rotate(-3deg)
+	100% 
+		transform: rotate(0)
