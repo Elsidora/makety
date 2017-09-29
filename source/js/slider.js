@@ -1,6 +1,6 @@
 'use strict';
 
-let slides = document.querySelectorAll('.slides__slide'),
+var slides = document.querySelectorAll('.slides__slide'),
 	currentSlide = 0,
 	slideInterval = setInterval(nextSlide,4000),
 	playing = true,
@@ -34,7 +34,7 @@ function playSlideshow() {
  slideInterval = setInterval(nextSlide,4000);
 }
 
-pauseButton.onclick = ()=> {
+pauseButton.onclick = function() {
  if(playing) {
  pauseSlideshow();
   } else {
@@ -42,11 +42,11 @@ pauseButton.onclick = ()=> {
   }
 };
 
-next.onclick = () => {
+next.onclick = function() {
  pauseSlideshow();
  nextSlide();
 };
-previous.onclick = () => {
+previous.onclick = function() {
  pauseSlideshow();
  previousSlide();
 };

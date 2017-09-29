@@ -28,6 +28,7 @@ $.gulp.task('default', $.gulp.series(
 		'imagemin'
 	),
 	'mincss',
+	'minjs',
 	$.gulp.parallel(
 		'watch',
 		'serve'
