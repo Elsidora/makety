@@ -15,6 +15,13 @@
 		text-transform: uppercase
 		padding: 15px
 		text-align: center
+	&__sub-title
+		font: 30px/36px 'Cuprum BoldItalic', 'Arial', sans-serif
+		color: #30385a
+		text-transform: uppercase
+		padding: 15px
+		text-align: center
+		
 	&__block
 		display: flex
 		flex-wrap: wrap
@@ -47,3 +54,25 @@
 		min-height: 327px
 		flex-grow: 2
 		padding: 10px
+	&__list
+		&--pvh
+			padding: 55px
+			
+	&__item
+		position: relative
+		padding-left: 45px
+		font: 18px/24px "Cuprum Italic", "Arial", sans-serif
+		color: #32425c
+		&:before
+			position: absolute
+			content: ''
+			width: 10px
+			height: 10px
+			background: #30385a
+			bottom: 8px
+			left: 10px
+			transform: rotate(45deg)
+		&--rhombus
+	
+			&::before
+				bottom: 33px

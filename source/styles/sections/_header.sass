@@ -98,8 +98,11 @@
 		font: 18px/24px 'Cuprum Bold', 'Arial', sans-serif
 		color: #fff
 		cursor: pointer
-		&:hover
+		&:not(.navigation__link--active):hover
 			background: #f1f5f7
 			color: #32425c
 		&--active
 			background: rgba(50, 175, 222, .5)
+
+		
+		//menu__item:not(.menu__item_active):hover{}
