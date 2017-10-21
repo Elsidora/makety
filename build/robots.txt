@@ -1,5 +1,7 @@
 User-agent: *
 
-Disallow: /
+Allow: /
 
 Host: https://maket-proplus.ru
+
+Sitemap: https://maket-proplus.ru/sitemap.xml
