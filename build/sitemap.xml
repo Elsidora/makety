@@ -2,351 +2,227 @@
 <!-- created with www.majento.ru -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
-	<loc>http://maket-proplus.ru/</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>1.00</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/about.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/about.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/architecturnye-makety.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/architecturnye-makety.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/auto.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/blog.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/blog.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/contacts.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/contacts.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/diorama-staroj-tuly.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/diorama-staroj-tuly.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/gde-zakazat-izgotovlenie-proizvodstvennyh-maketov.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/gde-zakazat-izgotovlenie-proizvodstvennyh-maketov.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/index.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/houses.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/maket-basseyna.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/index.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/maket-betonnogo-zavoda-germaniya.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/maket-basseyna.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/maket-betonnogo-zavoda-vladivostok.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/maket-betonnogo-zavoda-germaniya.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/maket-bm-grad.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/maket-betonnogo-zavoda-vladivostok.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/maket-bmp.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/maket-bm-grad.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/maket-bogoyavlenskogo-sobora-tula.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/maket-bmp.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/maket-bronirovannogo-avtomobilya-baz-yastreb-ab.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/maket-bogoyavlenskogo-sobora-tula.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/maket-bronirovannogo-avtomobilya-tigr.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/maket-bronirovannogo-avtomobilya-baz-yastreb-ab.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/maket-burovoy-vyshki-rostov-na-donu.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/maket-bronirovannogo-avtomobilya-tigr.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/maket-cementnogo-zavoda-moskva.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/maket-burovoy-vyshki-rostov-na-donu.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/maket-domov-mikrorayona.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/maket-cementnogo-zavoda-moskva.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/maket-gabaritnyh-vorot.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/maket-domov-mikrorayona.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/maket-gazoperekachivayushchey-stantsii.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/maket-gabaritnyh-vorot.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/maket-hrama-jelista.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/maket-gazoperekachivayushchey-stantsii.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/maket-hrama-moskva.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/maket-hrama-jelista.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/maket-hrama-pokrova.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/maket-hrama-moskva.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/maket-isaakievskogo-sobora.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/maket-hrama-pokrova.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/maket-kafedralnogo-uspenskogo-sobora-tula.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/maket-isaakievskogo-sobora.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/maket-kirpichnogo-zavoda-moskovskaya-oblast.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/maket-kafedralnogo-uspenskogo-sobora-tula.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/maket-korovnika-moskovskaya-oblast.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/maket-kirpichnogo-zavoda-moskovskaya-oblast.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/maket-marfo-mariinskoy-obiteli.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/maket-korovnika-moskovskaya-oblast.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/maket-mnogoetazhnogo-doma.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/maket-marfo-mariinskoy-obiteli.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/maket-mobilnoy-aerologicheskoy-stantsii.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/maket-mnogoetazhnogo-doma.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/maket-mobilnoy-stantsii-razvedki.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/maket-mobilnoy-aerologicheskoy-stantsii.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/maket-priborov-gazoanalizatorov.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/maket-mobilnoy-stantsii-razvedki.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/maket-proizvodstvennoy-linii-rollton.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/maket-priborov-gazoanalizatorov.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/maket-proizvodstvennoy-linii-trotuarnoy-plitki.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/maket-proizvodstvennoy-linii-rollton.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/maket-shchurovskogo-cementnogo-zavoda-kolomna.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/maket-proizvodstvennoy-linii-trotuarnoy-plitki.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/maket-sistemy-sposobov-tusheniya-pozhara.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/maket-shchurovskogo-cementnogo-zavoda-kolomna.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/maket-svyato-uspenskogo-hrama.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/maket-sistemy-sposobov-tusheniya-pozhara.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/maket-teplovoza-tem2-ugmk.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/maket-svyato-uspenskogo-hrama.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/maket-tserkvi-lyubertsy.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/maket-teplovoza-tem2-ugmk.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/maket-tserkvi-skuratovo.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/maket-tserkvi-lyubertsy.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/maket-tulskogo-kremlya.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/maket-tserkvi-skuratovo.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/maket-uspenskogo-sobora-tulskij-kreml.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/maket-tulskogo-kremlya.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/maket-vsehsvyatskogo-kafedralnogo-sobora-tula.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/maket-uspenskogo-sobora-tulskij-kreml.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/maket-vysotnogo-zdaniya-tulskaya-riviera.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/maket-vsehsvyatskogo-kafedralnogo-sobora-tula.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/maket-zavoda-tulachermet.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/maket-vysotnogo-zdaniya-tulskaya-riviera.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/maket-zdaniy-gostinichnogo-kompleksa-antaliya.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/maket-zavoda-tulachermet.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/maket-zdaniya-expocenter.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/maket-zdaniy-gostinichnogo-kompleksa-antaliya.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/maket-zdaniya-torgovogo-centra.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/maket-zdaniya-expocenter.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/makety-voennoy-tehniki-i-avtomobiley.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/maket-zdaniya-torgovogo-centra.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/makety-zdaniy-i-domov.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/makety-voennoy-tehniki-i-avtomobiley.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/materialy-dlya-maketirovaniya.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/makety-zdaniy-i-domov.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/promyshlennye-makety.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/materialy-dlya-maketirovaniya.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/reviews.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/promyshlennye-makety.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/suveniry.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 <url>
-	<loc>http://maket-proplus.ru/reviews.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://maket-proplus.ru/suveniry.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
-</url>
-<url>
-	<loc>http://maket-proplus.ru/vidy-maketov.html</loc>
-	<lastmod>2017-10-21T12:42:41+03:00</lastmod>
-	<priority>0.90</priority>
-	<changefreq>weekly</changefreq>
+	<loc>https://maket-proplus.ru/vidy-maketov.html</loc>
+	<lastmod>2017-11-29T12:42:41+03:00</lastmod>
 </url>
 </urlset>
